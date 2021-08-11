@@ -16,13 +16,14 @@
 [Judge]()
 
   * [FDCSC Judge System](https://github.com/revival0728/FudanHighSchool-110CSC)
-  * [DDJ](http://203.64.191.163)
-  * [ZJ](https://zerojudge.tw)
+  * [DanDanJudge](http://203.64.191.163)
+  * [ZeroJudge](https://zerojudge.tw)
   * [Sprout OJ](https://neoj.sprout.tw)
 
 [參考資料]()
 
   * [資訊之芽Python班](https://tw-csie-sprout.github.io/py2021/#!index.md)
+  * [資研第三屆講義](https://hackmd.io/@gtcoding/cscbook)
   
 
 [Github](https://github.com/MorganLee0906/test/)
