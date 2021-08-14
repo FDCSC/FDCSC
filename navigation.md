@@ -10,13 +10,13 @@
 
 [講義]()
 
-  * [Python 基礎語法](article/py_basic.md)
-  * [Python String](article/py_string.md)
-  * [Python If else](article/py_ifelse.md)
-  * [Python Loop](article/py_loop.md)
-  * [Python List](article/py_list.md)
-  * [Python Dict](article/py_dict.md)
-  * [Python Function](article/py_func.md)
+  * [Python 基礎語法](article/book/py_basic.md)
+  * [Python String](article/book/py_string.md)
+  * [Python If else](article/book/py_ifelse.md)
+  * [Python Loop](article/book/py_loop.md)
+  * [Python List](article/book/py_list.md)
+  * [Python Dict](article/book/py_dict.md)
+  * [Python Function](article/book/py_func.md)
 
 [Judge]()
 
