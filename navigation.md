@@ -10,8 +10,13 @@
 
 [講義]()
 
-  * [Judge 使用教學](article/test.md)
   * [Python 基礎語法](article/py_basic.md)
+  * [Python String](article/py_string.md)
+  * [Python If else](article/py_ifelse.md)
+  * [Python Loop](article/py_loop.md)
+  * [Python List](article/py_list.md)
+  * [Python Dict](article/py_dict.md)
+  * [Python Function](article/py_func.md)
 
 [Judge]()
 
@@ -26,7 +31,7 @@
   * [資研第三屆講義](https://hackmd.io/@gtcoding/cscbook)
   
 
-[Github](https://github.com/MorganLee0906/test/)
+[Github](https://github.com/MorganLee0906/FDCSC/)
 
 <!--
 [gimmick:Disqus](FDCSC)
